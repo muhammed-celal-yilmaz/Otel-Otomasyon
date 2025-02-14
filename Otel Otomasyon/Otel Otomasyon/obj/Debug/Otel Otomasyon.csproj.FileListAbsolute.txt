@@ -1,0 +1,30 @@
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\bin\Debug\Otel Otomasyon.exe.config
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\bin\Debug\Otel Otomasyon.exe
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\bin\Debug\Otel Otomasyon.pdb
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel Otomasyon.csproj.AssemblyReference.cache
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel Otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmNewCustomer.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.Properties.Resources.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel Otomasyon.csproj.GenerateResource.cache
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel Otomasyon.exe
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel Otomasyon.pdb
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmAdminLogin.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmMainForm.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmRooms.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmCustomers.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmUpdateLogin.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmUpdateCheck.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmIncomeExpense.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmStocks.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\bin\Debug\Interop.WMPLib.dll
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Interop.WMPLib.dll
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel Otomasyon.csproj.ResolveComReference.cache
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmRadio.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmNews.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmMessages.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmWeather.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmCalculator.resources
+C:\Users\mcy22\Masaüstü\PROJELER\C#\Otel Otomasyon\Otel Otomasyon\obj\Debug\Otel_Otomasyon.FrmExchangeRate.resources
